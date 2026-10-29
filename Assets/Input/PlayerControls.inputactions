@@ -38,7 +38,7 @@
                 {
                     "name": "",
                     "id": "db49509c-cf43-4ccc-88f7-03496d8e97bc",
-                    "path": "<Gamepad>/leftStick",
+                    "path": "<Joystick>/stick",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -115,7 +115,7 @@
                 {
                     "name": "",
                     "id": "f7fb9d96-3b63-4e78-8954-6d7f93d85f84",
-                    "path": "<Gamepad>/rightTrigger",
+                    "path": "<HID::QIXIONG Wire PS4 Controller>/button8",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -137,7 +137,7 @@
                 {
                     "name": "",
                     "id": "8b3bf68e-3b4f-46be-a5d6-63d13e98e61f",
-                    "path": "<Gamepad>/buttonSouth",
+                    "path": "<HID::QIXIONG Wire PS4 Controller>/button2",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
